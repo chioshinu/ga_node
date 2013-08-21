@@ -1,0 +1,9 @@
+{
+    "name": "ga_node",
+    "description": "Node js google analytics bot",
+    "author": "Sergey Gychka",
+    "dependencies": {
+        "zombie": "latest",
+        "assert": "latest"
+    }
+}
